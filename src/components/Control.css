@@ -1,0 +1,38 @@
+.icon {
+    font-size: 12px;
+    height: auto;
+    width: auto;
+}
+
+.icon-success {
+    color: green;
+}
+
+.icon-danger {
+    color: darkred;
+}
+
+.icon-warning {
+    color: #ebeb20;
+}
+
+.showMore-button {
+    color: black;
+    font-weight: 600;
+    background-color: #e3e3e3;
+    border: none;
+    font-size: 12px;
+    padding: 20px;
+}
+
+.table {
+    margin-bottom: 0px;
+  
+}
+
+
+.table td, .table th{
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-bottom: 10px;  
+}    

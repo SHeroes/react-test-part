@@ -1,0 +1,36 @@
+.feature {
+    background-color: #c8c8c8;
+    margin: 0px 5px;
+    margin-bottom: 60px;
+    font-size: 0.8rem;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 13px 15px;
+    margin: 0px 0px 0px 0px;
+    font-size: 1.3rem;
+}
+
+.danger {
+    background-color: red;
+}
+
+.success {
+    background-color: green;
+}
+
+.warning {
+    background-color: #ebeb20;
+}
+
+.icon {
+    font-size: 18px;
+    float: left;
+}
+
+.icon-right {
+    float: right;
+}
