@@ -6,7 +6,7 @@ Pasos de instalación son:
 git clone https://github.com/SHeroes/react-test-part.git
 - entrar a la carpeta creada y ejecutar: "npm install" 
 - npm run start
-
+- cargar el sitio en el navegador desde http://localhost:8000/  o localhost y el puerto que indique el build
 
 Mejoras Posibles:
 
@@ -26,7 +26,7 @@ The installation steps are:
 git clone https://github.com/SHeroes/react-test-part.git
 - enter into created folder and execute: "npm install"
 - "npm run start"
-
+- load the site in the browser from http://localhost:8000/ or localhost and the port indicated by the build
 
 Possible Improvements:
 
